@@ -1,0 +1,7 @@
+name: PulumiCase
+runtime: nodejs
+description: S3 website
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: ""
